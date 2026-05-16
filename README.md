@@ -26,6 +26,15 @@ Calculate RFM metrics:
 
 Champion
 
+📌 Conclusion
+
+This project demonstrates how customer transaction data can be transformed into actionable business insights using Python and RFM Analysis.
+It helps businesses identify high-value customers, improve customer retention, and make data-driven decisions.
+
+👩‍💻 Author
+
+Jivika D Jadhav
+
 Loyal Customer
 
 Potential Loyalist
@@ -148,4 +157,13 @@ Apply Machine Learning for customer prediction
 
 Automate customer segmentation
 
-Add recommendation systems
+Add recommendation systems 
+
+# 📌 Conclusion
+
+This project demonstrates how customer transaction data can be transformed into actionable business insights using Python and RFM Analysis.
+It helps businesses identify high-value customers, improve customer retention, and make data-driven decisions.
+
+# 👩‍💻 Author
+
+Jivika D Jadhav
